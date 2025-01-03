@@ -1,0 +1,5 @@
+Dataset available at https://cricsheet.org/
+
+The Cricsheet dataset provides a rich collection of ball-by-ball cricket match data, offering detailed insights into matches across various formats, including Test, ODI, and T20 cricket. This dataset, available in JSON format, captures granular details of each delivery bowled, such as runs scored, wickets taken, extras, player performances, and other game dynamics. It serves as an invaluable resource for cricket analysts, data scientists, and fans looking to explore trends, strategies, and player statistics across different teams, competitions, and time periods. The Cricsheet data allows for deep analysis of individual player performances, team strategies, and match outcomes. 
+I will analysis text matches played by team India, and build a dashboard around the team performance,
+I will also implement Geopy to visualize match locations, and visualize victories over stadiums 
