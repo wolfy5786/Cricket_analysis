@@ -1,3 +1,3 @@
 # Cricket_analysis
 
-We Gaussian Discrminant Analyis to predict the next delivery of the cricket ball,
+We Gaussian Discrminant Analyis to predict the next delivery of the cricket ball, and simulate matches
